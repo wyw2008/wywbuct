@@ -1,2 +1,5 @@
 #!/bin/bash
-echo "hello world!"
+#author: wangyiwen
+#email: wywbuct@126.com
+echo "my name is wangyiwen"
+
