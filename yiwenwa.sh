@@ -5,3 +5,4 @@ echo "modify by yiwenwa $date"
 if [ -e hello.sh ];then
 	rm hell.sh
 fi
+echo "new line by branch yiwenwa "
