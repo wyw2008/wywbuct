@@ -7,3 +7,4 @@ echo "modify second time,date is 2016.04.11"
 echo "modify by wnagyiwen $date"
 
 echo "hello master by error switch branch master"
+echo "new line by branch yiwenwa"
